@@ -9,3 +9,4 @@ Share your git tricks here.
 - 'git stash apply': <commit>
 
 
+new trick: use git commit -b "new_branch_name" to create a new branch and move into it.
